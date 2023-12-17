@@ -8244,6 +8244,10 @@ details.collapse summary::-webkit-details-marker {
   margin: 5rem;
 }
 
+.m-24 {
+  margin: 6rem;
+}
+
 .mx-20 {
   margin-left: 5rem;
   margin-right: 5rem;
@@ -8279,12 +8283,17 @@ details.collapse summary::-webkit-details-marker {
   margin-bottom: 2rem;
 }
 
-.mb-20 {
-  margin-bottom: 5rem;
+.my-24 {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
 }
 
 .mb-24 {
   margin-bottom: 6rem;
+}
+
+.mb-32 {
+  margin-bottom: 8rem;
 }
 
 .mb-5 {
@@ -8301,6 +8310,14 @@ details.collapse summary::-webkit-details-marker {
 
 .mt-3 {
   margin-top: 0.75rem;
+}
+
+.mt-36 {
+  margin-top: 9rem;
+}
+
+.mb-36 {
+  margin-bottom: 9rem;
 }
 
 .box-border {
@@ -9612,8 +9629,17 @@ details.collapse summary::-webkit-details-marker {
   padding-bottom: 1.5rem;
 }
 
+.py-36 {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+}
+
 .pb-32 {
   padding-bottom: 8rem;
+}
+
+.pl-3 {
+  padding-left: 0.75rem;
 }
 
 .pl-6 {
@@ -9628,8 +9654,20 @@ details.collapse summary::-webkit-details-marker {
   padding-top: 0.75rem;
 }
 
-.pl-3 {
-  padding-left: 0.75rem;
+.pb-40 {
+  padding-bottom: 10rem;
+}
+
+.pt-36 {
+  padding-top: 9rem;
+}
+
+.pb-44 {
+  padding-bottom: 11rem;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
 }
 
 .text-left {
